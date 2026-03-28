@@ -1,4 +1,4 @@
-# Voice automation: Python Voice Recognition System
+# Voice assitant: Python Voice Recognition System
 A suite of Python scripts designed for hands-free system interaction, featuring voice-activated triggers and automated alarm scheduling.
 
 ## 🚀 Overview
